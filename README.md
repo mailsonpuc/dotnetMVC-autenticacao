@@ -1,4 +1,4 @@
 # treina-tabuada
-### em desenvolviment
+### app em desenvolviment
 
 <img src="tabu.jpg">
