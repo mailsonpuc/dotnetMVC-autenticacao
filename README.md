@@ -1,4 +1,1 @@
-# treina-tabuada
-### app em desenvolviment
-
-<img src="tabu.jpg">
+Esté é um crude em dotnet 9, com autenticação e autorização.
